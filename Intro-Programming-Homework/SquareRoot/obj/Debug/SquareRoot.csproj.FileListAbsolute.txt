@@ -1,0 +1,5 @@
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\SquareRoot\obj\Debug\SquareRoot.pdb

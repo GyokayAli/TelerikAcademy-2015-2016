@@ -1,0 +1,8 @@
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\HelloCSharp\bin\Debug\01.HelloCSharp.exe.config
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\HelloCSharp\bin\Debug\01.HelloCSharp.exe
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\HelloCSharp\bin\Debug\01.HelloCSharp.pdb
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\HelloCSharp\obj\Debug\01.HelloCSharp.exe
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\HelloCSharp\obj\Debug\01.HelloCSharp.pdb
+C:\Users\Gyoki\Desktop\Telerik\Intro-Programming-Homework\HelloCSharp\bin\Debug\01.HelloCSharp.exe.config
+C:\Users\Gyoki\Desktop\Telerik\Intro-Programming-Homework\HelloCSharp\obj\Debug\01.HelloCSharp.exe
+C:\Users\Gyoki\Desktop\Telerik\Intro-Programming-Homework\HelloCSharp\obj\Debug\01.HelloCSharp.pdb

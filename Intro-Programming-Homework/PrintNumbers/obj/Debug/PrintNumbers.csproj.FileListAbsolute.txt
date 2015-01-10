@@ -1,0 +1,5 @@
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

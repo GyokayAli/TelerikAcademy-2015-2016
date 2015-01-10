@@ -1,0 +1,6 @@
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\HorribleClass\bin\Debug\HorribleClass.exe.config
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\HorribleClass\bin\Debug\HorribleClass.exe
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\HorribleClass\bin\Debug\HorribleClass.pdb
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\HorribleClass\obj\Debug\HorribleClass.csprojResolveAssemblyReference.cache
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\HorribleClass\obj\Debug\HorribleClass.exe
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\HorribleClass\obj\Debug\HorribleClass.pdb

@@ -1,0 +1,1 @@
+C:\Users\Gyoki\Desktop\Intro-Programming-Homework\HelloCSharp\bin\Debug\01.HelloCSharp.exe.config
