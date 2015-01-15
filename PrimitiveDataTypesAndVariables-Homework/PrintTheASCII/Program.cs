@@ -9,7 +9,7 @@ namespace PrintTheASCII
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = System.Text.Encoding.GetEncoding(1252);
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             for (int i=0; i <=255; i++)
             {
