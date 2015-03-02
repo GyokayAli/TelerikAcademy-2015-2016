@@ -1,0 +1,4 @@
+meet: 2
+hello: 2
+nice: 1
+girl: 1
