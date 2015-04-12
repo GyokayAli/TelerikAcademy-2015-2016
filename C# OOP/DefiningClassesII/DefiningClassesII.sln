@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Point3D", "Point3D", "{C33D08A6-772B-4310-89FF-2B515F7A7B02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point3D", "Point3D\Point3D.csproj", "{A084C4DF-FA22-40A9-93E3-ED3AE5C92C16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GenericList", "GenericList", "{85AF75F3-FF03-4FA2-AD13-7FAF15E2E7B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{5DB30669-AEEE-4EAF-AE64-15A8ED16FE23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Matrix", "Matrix", "{D653F2C3-C00B-4277-97DB-80ADC14BB42E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "Matrix\Matrix.csproj", "{C3BFD0D5-EEB4-4026-B5A7-91512913D0C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VersionAttribute", "VersionAttribute", "{8B0F70A3-D03F-47EF-B884-1CFFAC9BFCFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionAttribute", "VersionAttribute\VersionAttribute.csproj", "{566B49D1-E505-493B-9F54-98BA741AF67A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A084C4DF-FA22-40A9-93E3-ED3AE5C92C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A084C4DF-FA22-40A9-93E3-ED3AE5C92C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A084C4DF-FA22-40A9-93E3-ED3AE5C92C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A084C4DF-FA22-40A9-93E3-ED3AE5C92C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB30669-AEEE-4EAF-AE64-15A8ED16FE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB30669-AEEE-4EAF-AE64-15A8ED16FE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB30669-AEEE-4EAF-AE64-15A8ED16FE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB30669-AEEE-4EAF-AE64-15A8ED16FE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3BFD0D5-EEB4-4026-B5A7-91512913D0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BFD0D5-EEB4-4026-B5A7-91512913D0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BFD0D5-EEB4-4026-B5A7-91512913D0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BFD0D5-EEB4-4026-B5A7-91512913D0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566B49D1-E505-493B-9F54-98BA741AF67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566B49D1-E505-493B-9F54-98BA741AF67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566B49D1-E505-493B-9F54-98BA741AF67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566B49D1-E505-493B-9F54-98BA741AF67A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A084C4DF-FA22-40A9-93E3-ED3AE5C92C16} = {C33D08A6-772B-4310-89FF-2B515F7A7B02}
+		{5DB30669-AEEE-4EAF-AE64-15A8ED16FE23} = {85AF75F3-FF03-4FA2-AD13-7FAF15E2E7B2}
+		{C3BFD0D5-EEB4-4026-B5A7-91512913D0C6} = {D653F2C3-C00B-4277-97DB-80ADC14BB42E}
+		{566B49D1-E505-493B-9F54-98BA741AF67A} = {8B0F70A3-D03F-47EF-B884-1CFFAC9BFCFC}
+	EndGlobalSection
+EndGlobal
