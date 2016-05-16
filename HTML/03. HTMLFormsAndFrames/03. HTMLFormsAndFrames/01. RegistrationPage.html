@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head lang="en">
+    <meta charset="utf-8">
+    <title>Registration Form</title>
+</head>
+<style>
+    table {
+        border-collapse: collapse;
+    }
+
+    tfoot {
+        background-color: #87ceeb;
+    }
+</style>
+<body>
+    <form method="Post">
+        <table border="1px" width="450px">
+            <tbody>
+
+                <tr>
+                    <th> <label for="last-name">Last Name</label></th>
+                    <td><input type="text" name="lastName" id="last-name"></td>
+                </tr>
+
+                <tr>
+                    <th> <label for="first-name">First Name</label></th>
+                    <td><input type="text" name="firstName" id="first-name"></td>
+                </tr>
+
+                <tr>
+                    <th> <label for="address">Address</label></th>
+                    <td><textarea name="Address" id="address"></textarea></td>
+                </tr>
+
+                <tr>
+                    <th> <label for="city">City</label></th>
+                    <td>
+                        <input type="text" name="City" id="city" size="15">
+                        <label for="state">State</label>
+                        <input type="text" name="state" size="8">
+                    </td>
+                </tr>
+
+                <tr>
+                    <th> <label for="zip-postalCode">Zip/Postal Code</label></th>
+                    <td><input type="text" name="postal code" id="zip-postalCode" size="8"></td>
+                </tr>
+
+                <tr>
+                    <th> <label for="country">Country</label></th>
+                    <td>
+                        <select name="country" id="country" size="1">
+                            <option value=" 1" selected="selected">Bulgaria</option>
+                            <option value=" 2">United Kingdom</option>
+                        </select>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th> <label>Phone(country code, <br> area code,number)</label></th>
+                    <td>
+                        (+ <input type="text" name="country code" size="6">)
+                        <input type="text" name="area code" size="6">
+                        <input type="text" name="number" size="10">
+                    </td>
+                </tr>
+
+                <tr>
+                    <th><label id="email">Email</label></th>
+                    <td><input type="text" name="Email" id="email"></td>
+                </tr>
+
+                <tr>
+                    <th><label id="birthdate">Birth date</label></th>
+                    <td><input type="text" name="Birthdate" id="birthdate" value="дд.мм.гггг г."></td>
+                </tr>
+
+                <tr>
+                    <th> <label for="gender">Gender</label></th>
+                    <td>
+                        <select name="Gender" id="gender">
+                            <option value=" 1" selected="selected">Male</option>
+                            <option value=" 2">Female</option>
+                            <option value=" 3">Other</option>
+                        </select>
+                    </td>
+                </tr>
+
+                <tr>
+                    <th><label id="starting-date">Starting date</label></th>
+                    <td>
+                        <input type="radio" name="spring" />Spring 2015
+                        <input type="radio" name="summer" />Summer 2015
+                    </td>
+                </tr>
+
+                <tr>
+                    <th> <label for="comments-questions">Comments/Questions</label></th>
+                    <td><textarea name="Comments/Questions" id="comments-questions"></textarea></td>
+                </tr>
+            </tbody>
+
+            <tfoot>
+                <tr>
+                    <td colspan='2' align="center">
+                        <input type="submit" value="Submit" />
+                        <input type="reset" name="resetBtn" value="Clean this form" />
+                    </td>
+
+                </tr>
+            </tfoot>
+        </table>
+    </form>
+</body>
+</html>
