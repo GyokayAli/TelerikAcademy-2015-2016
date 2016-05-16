@@ -1,0 +1,43 @@
+﻿body {
+    background-color: #5f5c5c;
+    font-size: 14px;
+    font-family: Arial;
+}
+
+th {
+    color: #bbbbbb;
+    font-size: 1.5em;
+    font-weight:normal;
+    text-align: left;
+}
+
+.yellowTxt {
+    color: #feff7c;
+}
+
+.redTxt {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.orangeTxt {
+    color: #ff6a00;
+    font-weight: bold;
+}
+
+.def {
+    width: 8em;
+    font-style: italic;
+    color: #ffffff;
+}
+
+.greyTxt {
+    color: #bbbbbb;
+}
+#name:before {
+    content:"•";
+    font-size:50px;
+    line-height:14px;
+    vertical-align:top;
+    color:#77b880;
+}

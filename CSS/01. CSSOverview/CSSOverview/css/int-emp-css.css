@@ -1,0 +1,31 @@
+﻿.theTable {
+    border: 1px solid #c7c7c7;
+    border-collapse: collapse;
+    font-family: Arial;
+}
+
+    .theTable th {
+        background-color: #5dbe08;
+        color: #ffffff;
+        font-weight: normal;
+        font-size: 16px;
+    }
+
+    .theTable > tbody > tr > td, .theTable > thead > tr > th {
+        padding: 3px;
+        border-left: 1px solid #c7c7c7;
+        border-right: 1px solid #c7c7c7;
+    }
+
+    .theTable > tbody > tr:nth-child(even) {
+        background-color: #ededda;
+    }
+
+table td, table th {
+    text-align: left;
+}
+
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+}

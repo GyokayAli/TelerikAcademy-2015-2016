@@ -1,0 +1,55 @@
+﻿body {
+    background-color: #808080;
+}
+
+body > header, body > footer{
+    text-align:center
+}
+
+header > h1 {
+    font-size: 2.5em;
+    color: #eee2b9
+}
+
+article > header > h1 {
+    font-size: 1.6em;
+    color: #eee2b9
+}
+
+a {
+    color: #ffffff
+}
+
+.current{
+    background-color: #cfcfcf
+}
+
+p{
+    text-align:justify
+}
+
+article > footer, article > footer > p > a{
+    font-size: 12px;
+    text-decoration: none;
+    color: #000000
+}
+
+nav > ul > li > a, nav > ul > li{
+    font-size: 1.2em;
+    padding: 1px;
+    margin: 4px;
+    font-weight: 900;
+    text-decoration: none
+}
+
+ nav > ul > li:last-child{
+     text-decoration: underline
+ }
+
+ ul{
+     list-style-type:none
+ }
+
+
+
+ 
